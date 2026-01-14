@@ -7,8 +7,7 @@ A passionate Computer Science Engineering student from India
 ---
 
 ### 🚀 Connect with Me
-[LinkedIn]([your-link](https://www.linkedin.com/in/diya-gupta-47a67b284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<img width="741" height="68" alt="image" src="https://github.com/user-attachments/assets/1051af50-9e25-4139-946b-1072b04a6a0e" />
-)  • [LeetCode]([your-link](https://leetcode.com/u/gdiya/)) 
+[LinkedIn]([https://www.linkedin.com/in/diya-gupta-47a67b284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])  • [LeetCode]([https://leetcode.com/u/gdiya/]) 
 
 ---
 
