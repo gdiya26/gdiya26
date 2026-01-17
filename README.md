@@ -31,7 +31,7 @@ To build smart systems, meaningful software, and grow as a professional while co
 
 ---
 
-### 🚀 Connect with Me
+### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/diya-gupta-47a67b284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  • [LeetCode](https://leetcode.com/u/gdiya/) 
 
 ---
