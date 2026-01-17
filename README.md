@@ -5,29 +5,29 @@ I enjoy learning, exploring new technologies, and building impactful solutions t
 
 ---
 
-### 🌟 About Me
-- 📚 Pursuing CSE with a specialization in Adaptive AI
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and real-world tech applications
-- 💡 Curious learner who loves exploring new tools, concepts, and ideas
-- 👩‍💻 Enthusiastic about software development and innovative projects
-- 🌄 Love trekking, travelling, and connecting with nature
-- 🎯 Possess strong leadership qualities and teamwork experience
-- 👥 Actively involved in college clubs and collaborative activities
+### About Me
+- Pursuing CSE with a specialization in Adaptive AI
+- Interested in Artificial Intelligence, Machine Learning, and real-world tech applications
+- Curious learner who loves exploring new tools, concepts, and ideas
+- Enthusiastic about software development and innovative projects
+- Love trekking, travelling, and connecting with nature
+- Possess strong leadership qualities and teamwork experience
+- Actively involved in college clubs and collaborative activities
 
 ---
 
-### 🧠 Skills & Interests
+### Skills & Interests
 AI • Machine Learning • Problem Solving • Web Development  
 Leadership • Team Collaboration • Adaptability • Continuous Learning
 
 ---
 
-### 🚀 What I Aim For
+### What I Aim For
 To build smart systems, meaningful software, and grow as a professional while contributing to impactful projects and communities.
 
 ---
 
-- 📫 How to reach me **gdiya2646@gmail.com**
+- How to reach me **gdiya2646@gmail.com**
 
 ---
 
@@ -48,7 +48,7 @@ To build smart systems, meaningful software, and grow as a professional while co
 ### Deployment
 Vercel
 ---
-Thanks for visiting my GitHub profile 😊  
+Thanks for visiting my GitHub profile
 Feel free to explore my repositories and projects!
 
 
